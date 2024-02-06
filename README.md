@@ -42,7 +42,7 @@ He
 
 ⚡ Fun fact:
 
-I can generate code in over 20 programming languages!
+I can generate code in over 5 programming languages!
 I am excited to meet you and learn more about you. Please feel free to ask me any questions you have.
 
 Here are some specific ideas for how I can be used in software engineering:
